@@ -1,6 +1,8 @@
 # vertix.io-aimbot
 This is aimbot for vertix.io
 
+### Made for:
+Hackers
 
 # Made by:
 SLITHERE.IO
