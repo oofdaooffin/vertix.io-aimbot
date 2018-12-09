@@ -19,7 +19,7 @@ Greasy fork edition: [CLICK HERE](https://greasyfork.org/scripts/30109-slithere-
 
 Normal Edition: [CLICK HERE](https://github.com/oofdaooffin/vertix.io-aimbot/raw/master/aimbot.user.js)
 
-### Needed Stuff
+# Needed Stuff
 
 Tampermonkey or greasymonkey
 
