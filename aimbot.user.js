@@ -1,4 +1,3 @@
-// Must need tampermonkey or greasymonkey so you can add this script
 
 // ==UserScript==
 // @name         SLITHERE.COM Vertix.io Aimbot with C KEY
