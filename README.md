@@ -7,7 +7,7 @@ Hackers
 # Made by:
 SLITHERE.IO
 
-pleikka132_OW On twitter(creator of this repository)
+evol_OW On twitter(creator of this repository)
 
 # Other information
 
