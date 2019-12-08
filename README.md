@@ -17,8 +17,6 @@ This aimbot should never be outdated.
 
 # Downloads
 
-Greasy fork edition: [CLICK HERE](https://greasyfork.org/scripts/30109-slithere-com-vertix-io-aimbot-with-c-key/code/SLITHERECOM%20Vertixio%20Aimbot%20with%20C%20KEY.user.js)
-
 Normal Edition: [CLICK HERE](https://github.com/oofdaooffin/vertix.io-aimbot/raw/master/aimbot.user.js)
 
 # Needed Stuff
@@ -26,3 +24,9 @@ Normal Edition: [CLICK HERE](https://github.com/oofdaooffin/vertix.io-aimbot/raw
 Tampermonkey or greasymonkey
 
 Vertix.io Site access
+
+# Updates
+
+Greasy Fork Edition has been removed.
+
+Updating the Normal Edition is useless now. 1.1.0.1 is just the removal message lmao.
